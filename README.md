@@ -6,7 +6,7 @@ NOTE: If you get issues with the day not showing up after adding it, just go to 
 
 Need to install the following dependencies:
 1. pip install flask
-2. winget install -e --id SQLite.SQLite (Windows)
+2. winget install -e --id SQLite.SQLite (Windows - need this to open up sqlite3 db and edit any tables, you can use a GUI app if you want)
 
 # Home Page
 Starting page for app where you can see overview of the app and dates tracked.
